@@ -1,0 +1,13 @@
+{
+  "name": "xweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node lib/index.js"
+  },  
+  "dependencies": {
+    "compression": "^1.7.3",
+    "express": "^4.16.3"
+  }
+}
